@@ -1,0 +1,15 @@
+random
+SpeechRecognition
+pyttsx3
+pywhatkit
+datetime
+wikipedia
+webbrowser
+pyautogui
+sys
+urllib
+requests
+brainlypy
+smtplib
+translate
+wolframalpha
